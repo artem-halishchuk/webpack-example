@@ -1,0 +1,14 @@
+создаем папки src и dist
+npm init
+npm i --save-dev webpack webpack-cli
+создаем файл webpack.config.js - где прописывается настройка webpack
+npm i -D css-loader
+npm i -D style-loader
+npm i -D babel-loader
+npm i -D typescript не надо
+npm i -D ts-loader не надо
+npm i -D @babel/preset-typescript
+npm i -D @babel/preset-env
+npm i -D @babel/plugin-proposal-class-properties
+npm i -D @babel/plugin-proposal-object-rest-spread
+npm install --save-dev @babel/core
