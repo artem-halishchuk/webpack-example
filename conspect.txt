@@ -18,3 +18,5 @@ npm i -D html-webpuck-plugin
 
 npm i --save rxjs
 npm i -D clean-webpack-plugin
+
+imagesMinimizerWebpackPlugin
