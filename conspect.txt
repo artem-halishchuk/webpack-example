@@ -12,3 +12,9 @@ npm i -D @babel/preset-env
 npm i -D @babel/plugin-proposal-class-properties
 npm i -D @babel/plugin-proposal-object-rest-spread
 npm install --save-dev @babel/core
+npm i -D html-webpuck-plugin
+
+библиотека подключается не как --save-dev, а просто --save
+
+npm i --save rxjs
+npm i -D clean-webpack-plugin
